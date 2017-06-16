@@ -32,3 +32,9 @@ Up and Down scaling is one of the features that Webapps has to offer, other feat
 - Go to both webapps... (show kudu and SCM) 
 - Make the swithch from test deployment slot to production
 
+# Azure WebApp using dockerized Java App
+
+# Java WebApp dockerized Java App on Kubernetes
+
+  - To be more complete (Java deployment examples on Azure)  I added this example, however..this is NOT using a WebAPP, it uses a kubernetes cluster which is based (at the time of this writing) on a server (IAAS) architecture.
+
